@@ -1,2 +1,2 @@
 # Karan Naik's Curriculum Vitae
-use git push heroku master
+use do git push & git push heroku master
