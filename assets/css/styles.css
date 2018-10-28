@@ -309,6 +309,13 @@ p {
   padding-top: 10px;
 }
 
+.client-box {
+  padding-left: 10px;
+}
+
+.facebook {
+  color: #3B5998;
+}
 
 @media (max-width: 500px) {
   .job-info {
